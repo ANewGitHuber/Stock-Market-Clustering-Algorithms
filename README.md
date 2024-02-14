@@ -1,7 +1,9 @@
 ## Stock-Market-Clustering-Algorithms
 
 Datasets:
+
 SP-500_firms.csv: contains firm and ticker names
+
 SP_500_close_2015.csv: contains stock price data for 2015
 
 ### Part 1 - Some Effective Tools from pandas Library 
