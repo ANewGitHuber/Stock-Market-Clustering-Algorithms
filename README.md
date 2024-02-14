@@ -118,6 +118,10 @@ Pairs trading is a popular trading strategy in financial markets that involves t
 
 ![Step 3 - 2](https://github.com/ANewGitHuber/Stock-Market-Clustering-Algorithms/assets/88078123/926dc410-00be-4406-b594-7de7cbc8a69c)
 
+![Step 3 - 3](https://github.com/ANewGitHuber/Stock-Market-Clustering-Algorithms/assets/88078123/cc572a4b-d3d2-462e-b970-3bf322422ce0)
+
+![Step 3 - 4](https://github.com/ANewGitHuber/Stock-Market-Clustering-Algorithms/assets/88078123/3a07398a-424c-431d-ad29-62110ae301c7)
+
 
 - **Monitoring and Reversion to Mean**: Traders monitor the positions and wait for the spread to revert to its historical average or mean. When the spread narrows, they can close their positions, aiming to make a profit. The strategy is based on the belief that the prices of the two instruments will converge over time.
 
