@@ -6,6 +6,8 @@ SP-500_firms.csv: contains firm and ticker names
 
 SP_500_close_2015.csv: contains stock price data for 2015
 
+all_stocks_5yr.csv: contains stock data for 2017 (Used in Part 3 Pairs Trading)
+
 ### Part 1 - Some Effective Tools from pandas Library 
 
 #### Returns
