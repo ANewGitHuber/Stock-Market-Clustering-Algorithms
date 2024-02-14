@@ -136,3 +136,5 @@ we do the same thing as before but for 2017 values.
 #### Three Dimensional K-means Clustering
 
 ![Three Dimensional K-mean Clustering](https://github.com/ANewGitHuber/Stock-Market-Clustering-Algorithms/assets/88078123/b17ea46b-2b34-485a-9d36-8b5550e732c0)
+
+@John Chen, Rui Moreno, Rakesh, Adelina, Siyu, 2024, Imperial College London. All rights to source codes are reserved.
